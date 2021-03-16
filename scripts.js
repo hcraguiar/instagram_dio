@@ -9,7 +9,6 @@ $(document).ready(function(){
         if (i > 5) {
             i = 1;
         }
-        console.log(i)
     }, 3000);
 })
 
